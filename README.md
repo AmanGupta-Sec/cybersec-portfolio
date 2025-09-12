@@ -28,7 +28,7 @@ It includes research reports, hands-on labs, and projects completed during my BS
 ---
 
 ### 📘 College Projects  
-- [Smart Emergency Alert System for Ambulances](projects/Smart%20Emergency%20Alert%20System.pdf)  
+- [Smart Emergency Alert System for Ambulances](projects/SEAS-synopsis-2.pdf)  
 
 ---
 
