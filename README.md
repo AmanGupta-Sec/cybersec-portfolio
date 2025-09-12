@@ -7,21 +7,12 @@ It includes research reports, hands-on labs, and projects completed during my BS
 
 ## 📂 Portfolio Contents  
 
-# Aman Gupta – Cybersecurity & IT Portfolio  
-
-This repository showcases my academic and practical work in **cybersecurity, programming, and IT systems**.  
-It includes research reports, hands-on labs, and projects completed during my BSc in Information Technology and professional certification training.  
-
----
-
-## 📂 Portfolio Contents  
-
 ### 🔐 Cybersecurity Reports  
 - [Vulnerability Assessment Report](cybersecurity_reports/Vulnerability%20assessment%20report.pdf)  
 - [Incident Handler’s Journal](cybersecurity_reports/Incident%20Handlers%20Journal/Incident%20handler's%20journal.pdf)  
 - [Phishing Incident Response Playbook](cybersecurity_reports/Incident%20Handlers%20Journal/Phishing%20incident%20response%20playbook%20IHJ%202.pdf)  
-- [Controls & Compliance Checklist](cybersecurity_reports/Controls%20and%20compliance%20checklist.docx)  
-- [Botium Scope & Risk Assessment](cybersecurity_reports/Botium%20Toys_scope_risk.docx)  
+- [Controls & Compliance Checklist](cybersecurity_reports/Controls%20and%20compliance%20checklist.pdf)  
+- [Botium Scope & Risk Assessment](cybersecurity_reports/Botium%20Toys_scope_risk.pdf)  
 
 ---
 
@@ -37,7 +28,7 @@ It includes research reports, hands-on labs, and projects completed during my BS
 ---
 
 ### 📘 College Projects  
-- [Smart Emergency Alert System for Ambulances](projects/Smart%20Emergency%20Alert%20System.pdf)   
+- [Smart Emergency Alert System for Ambulances](projects/Smart%20Emergency%20Alert%20System.pdf)  
 
 ---
 
