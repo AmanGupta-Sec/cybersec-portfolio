@@ -7,21 +7,37 @@ It includes research reports, hands-on labs, and projects completed during my BS
 
 ## 📂 Portfolio Contents  
 
-### 🔒 Cybersecurity Reports  
-- **Vulnerability Assessment Report** – Identified and analyzed security weaknesses, with mitigation strategies.  
-- **Incident Handlers Journal** – Documented incident response workflow with case studies.  
-- **Controls & Compliance Checklist** – Designed compliance checklist for IT security standards.  
-- **Botium Scope Assessment** – Security scope assessment report for an organization.  
+# Aman Gupta – Cybersecurity & IT Portfolio  
+
+This repository showcases my academic and practical work in **cybersecurity, programming, and IT systems**.  
+It includes research reports, hands-on labs, and projects completed during my BSc in Information Technology and professional certification training.  
+
+---
+
+## 📂 Portfolio Contents  
+
+### 🔐 Cybersecurity Reports  
+- [Vulnerability Assessment Report](cybersecurity_reports/Vulnerability%20assessment%20report.pdf)  
+- [Incident Handler’s Journal](cybersecurity_reports/Incident%20Handlers%20Journal/Incident%20handler's%20journal.pdf)  
+- [Phishing Incident Response Playbook](cybersecurity_reports/Incident%20Handlers%20Journal/Phishing%20incident%20response%20playbook%20IHJ%202.pdf)  
+- [Controls & Compliance Checklist](cybersecurity_reports/Controls%20and%20compliance%20checklist.docx)  
+- [Botium Scope & Risk Assessment](cybersecurity_reports/Botium%20Toys_scope_risk.docx)  
+
+---
 
 ### 💻 Programming & SQL  
-- **Python Script for File Updates** – Algorithm to efficiently manage file changes.  
-- **SQL Queries with Filters** – Optimized SQL query execution with applied filters.  
+- [Algorithm for File Updates in Python](programming_SQL/Algorithm%20for%20file%20updates%20in%20Python.pdf)  
+- [Apply Filters to SQL Queries](programming_SQL/Apply%20filters%20to%20SQL%20queries.pdf)  
 
-### 🖥️ Systems & OS  
-- **Linux File Permissions** – Practical report on Linux-based security and file access control.  
+---
 
-### 🚑 Projects  
-- **Smart Emergency Alert System (SEAS)** – IoT-based solution using RF + AI to reduce ambulance delays by sending real-time alerts through Google Maps.  
+### ⚙️ System & OS  
+- [File Permissions in Linux](system_and_OS/File%20permissions%20in%20Linux.pdf)  
+
+---
+
+### 📘 College Projects  
+- [Smart Emergency Alert System for Ambulances](projects/Smart%20Emergency%20Alert%20System.pdf)   
 
 ---
 
