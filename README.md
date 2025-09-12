@@ -34,5 +34,5 @@ It includes research reports, hands-on labs, and projects completed during my BS
 ---
 
 ## 🔗 Portfolio Access  
-- [LinkedIn](www.linkedin.com/in/aman-gupta-394474378e)  
+- [LinkedIn](www.linkedin.com/in/aman-gupta-394474378)  
 - [GitHub](https://github.com/AmanGupta-Sec)  
