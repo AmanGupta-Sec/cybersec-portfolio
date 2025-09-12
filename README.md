@@ -10,7 +10,6 @@ It includes research reports, hands-on labs, and projects completed during my BS
 ### 🔐 Cybersecurity Reports  
 - [Vulnerability Assessment Report](cybersecurity_reports/Vulnerability%20assessment%20report.pdf)  
 - [Incident Handler’s Journal](cybersecurity_reports/Incident%20Handlers%20Journal/Incident%20handler's%20journal.pdf)  
-- [Phishing Incident Response Playbook](cybersecurity_reports/Incident%20Handlers%20Journal/Phishing%20incident%20response%20playbook%20IHJ%202.pdf)  
 - [Controls & Compliance Checklist](cybersecurity_reports/Controls%20and%20compliance%20checklist.pdf)  
 - [Botium Scope & Risk Assessment](cybersecurity_reports/Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.pdf)
 
