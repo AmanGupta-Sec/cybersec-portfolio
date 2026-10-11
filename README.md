@@ -3,7 +3,7 @@
 MSc Cybersecurity student at **Manipal University Jaipur** with a BSc in Information Technology background. I’m building practical skills in security monitoring, network analysis, Linux, scripting, and incident response through hands-on labs, coursework, and projects.
 
 - **Current focus:** SIEM engineering, detection engineering, network security, and security operations
-- **Education:** MSc Cybersecurity — Manipal University Jaipur (2026–present); BSc Information Technology — University of Mumbai (2023–2026)
+- **Education:** MSc Cybersecurity — Manipal University Jaipur (2026–present); BSc Information Technology — University of Mumbai
 - **Portfolio:** [Cybersecurity reports and project notes](#portfolio)
 - **Connect:** [LinkedIn](https://linkedin.com/in/aman-gupta-394474378) · [GitHub](https://github.com/AmanGupta-Sec)
 
@@ -60,7 +60,7 @@ Tools listed here reflect coursework and hands-on learning; proficiency varies b
 ## Certifications and learning
 
 - **Google Cybersecurity Professional Certificate** — completed
-- **IBM Cybersecurity Analyst / Professional Certificate coursework** — in progress
+- **IBM Cybersecurity Professional Certificate coursework** — in progress
 
 Only completed credentials are marked as completed. Add certificate verification links when available.
 
