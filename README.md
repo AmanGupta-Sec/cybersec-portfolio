@@ -79,7 +79,6 @@ I’m pursuing an **MSc in Cybersecurity at Manipal University Jaipur**, buildin
 ## Certifications and learning
 
 - **Google Cybersecurity Professional Certificate** — completed
-- **IBM Cybersecurity Professional Certificate** — coursework in progress
 
 ## Security reports and technical coursework
 
