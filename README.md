@@ -11,17 +11,17 @@ MSc Cybersecurity student at **Manipal University Jaipur** with a BSc in Informa
 
 ## Featured projects
 
-### Sentinel X — Wazuh SIEM college project
-**Status: In progress · Team project**
+### Sentinel X — Personal SIEM & Detection Engineering Project
+**Status: Version 2 in development · Personal project**
 
-A security monitoring project using Wazuh on an Ubuntu Server virtual machine. The current phase has the Wazuh dashboard running; the team is working toward application/server log integration and custom detection rules. Security testing is planned after the data pipeline and detections are connected.
+Sentinel X is my ongoing cybersecurity project focused on security monitoring and detection engineering with Wazuh and Ubuntu Server. I’m independently developing Version 2, building on the initial project baseline to grow it into a more complete, documented, and demonstrable SIEM lab.
 
-- **Current work:** Wazuh deployment and dashboard setup
-- **Next milestones:** ingest application/server logs, implement and validate detection rules, test alerting, and document findings
-- **Web application repository:** [SIEM-project-web-app](https://github.com/ArvindRaghav56/SIEM-project-web-app)
-- **My focus:** Ubuntu/VM environment setup and SIEM deployment
+- **Current baseline:** Wazuh dashboard running in an Ubuntu Server virtual machine
+- **Version 2 roadmap:** integrate application/server logs, develop and validate detection rules, test alerting with controlled security scenarios, and document findings
+- **Initial web application repository:** [SIEM-project-web-app](https://github.com/ArvindRaghav56/SIEM-project-web-app)
+- **My Version 2 goal:** independently extend the architecture, improve detections and documentation, and publish reproducible setup and testing steps
 
-> This is a work in progress. Features not yet integrated or tested are intentionally described as planned work, not completed capabilities.
+> Sentinel X Version 2 is in progress. Log integration, detection coverage, and security test results will be documented as they are implemented and verified.
 
 ### Smart Emergency Alert System (SEAS)
 **Status: Academic project documentation / prototype work**
@@ -68,7 +68,7 @@ Only completed credentials are marked as completed. Add certificate verification
 
 - Improve SIEM log ingestion, alert triage, and detection-rule validation
 - Document repeatable security labs with evidence, methodology, and limitations
-- Build an individual, MacBook-Air-M2-friendly extension of Sentinel X after the college team submission
+- Build an individual, MacBook-Air-M2-friendly Version 2 of Sentinel X
 - Publish clear setup instructions, screenshots, and reproducible demonstrations for future projects
 
 ## Repository structure
