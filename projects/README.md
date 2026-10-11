@@ -4,20 +4,20 @@ This folder contains project documentation and summaries.
 
 ## Sentinel X — Personal SIEM & Detection Engineering Project
 
-**Status: Version 2 in development · Personal project.**
+**Status: In progress · Personal project.**
 
-I am independently developing Sentinel X Version 2, building on the initial project baseline to expand the Wazuh-based security monitoring lab and document its setup, detections, and test results.
+Sentinel X is my personal Wazuh-based security monitoring project. I am expanding the lab and documenting its setup, detections, and test results.
 
 ### Current baseline
 - Wazuh dashboard running in an Ubuntu Server virtual machine.
 
-### Version 2 roadmap
+### Planned work
 - Integrate application/server logs into the SIEM.
 - Implement and validate detection rules.
 - Run controlled security scenarios and verify generated alerts.
 - Document architecture, setup steps, evidence, results, and limitations.
 
-The initial web application repository used by the baseline is [SIEM-project-web-app](https://github.com/ArvindRaghav56/SIEM-project-web-app). Sentinel X Version 2 is my personal extension; only features that have actually been implemented and tested should be marked complete.
+The related web application repository is [SIEM-project-web-app](https://github.com/ArvindRaghav56/SIEM-project-web-app). Only features that have actually been implemented and tested should be marked complete.
 
 **Security hygiene:** Do not publish dashboard credentials, tokens, private IPs, or sensitive logs in screenshots or documentation.
 
