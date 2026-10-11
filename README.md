@@ -14,13 +14,19 @@ MSc Cybersecurity student at **Manipal University Jaipur** with a BSc in Informa
 ### Sentinel X — Personal SIEM & Detection Engineering Project
 **Status: In progress · Personal project**
 
-Sentinel X is my personal cybersecurity project focused on security monitoring and detection engineering with Wazuh and Ubuntu Server. I’m developing the project into a more complete, documented, and demonstrable SIEM lab.
+Sentinel X is my personal security monitoring and detection engineering project built around Wazuh and Ubuntu Server. Rather than stopping at a default SIEM dashboard, the goal is to build and test an application-aware detection workflow that connects real application events to meaningful, explainable security alerts.
 
-- **Current baseline:** Wazuh dashboard running in an Ubuntu Server virtual machine
-- **Planned work:** integrate application/server logs, develop and validate detection rules, test alerting with controlled security scenarios, and document findings
+- **Current baseline:** Wazuh dashboard running in an Ubuntu Server virtual machine.
+- **Application-aware monitoring:** planned ingestion of structured events from a Flask web application, including successful logins, failed logins, and user activity.
+- **Custom detection logic:** planned Wazuh decoders and custom rules tailored to the application's log format, rather than relying only on built-in alerts.
+- **Correlation for suspicious behaviour:** planned detection of repeated failed logins from the same source IP to flag possible brute-force activity.
+- **Testable detection engineering:** validate rules with Wazuh's log-testing workflow and controlled security scenarios, then record expected versus observed alerts.
+- **Evidence-led reporting:** document the event flow, rule logic, severity, test cases, screenshots, and known limitations so results can be reproduced.
 - **Related web application repository:** [SIEM-project-web-app](https://github.com/ArvindRaghav56/SIEM-project-web-app)
 
-> Sentinel X is in progress. Log integration, detection coverage, and security test results will be documented as they are implemented and verified.
+**What makes Sentinel X distinctive:** it aims to demonstrate the complete path from application event → log ingestion → custom detection → correlated alert → validation evidence, not just display a SIEM dashboard.
+
+> The application-log integration, custom rules, correlation, and test evidence are planned work and will be marked complete only after implementation and verification.
 
 ### Smart Emergency Alert System (SEAS)
 **Status: Academic project documentation / prototype work**
@@ -65,10 +71,10 @@ Only completed credentials are marked as completed. Add certificate verification
 
 ## Current learning goals
 
-- Improve SIEM log ingestion, alert triage, and detection-rule validation
+- Build and validate application-aware SIEM detections
+- Improve alert triage, event correlation, and detection-rule testing
 - Document repeatable security labs with evidence, methodology, and limitations
-- Develop Sentinel X as a personal, hands-on security monitoring project
-- Publish clear setup instructions, screenshots, and reproducible demonstrations for future projects
+- Publish clear setup instructions and reproducible demonstrations for personal projects
 
 ## Repository structure
 
